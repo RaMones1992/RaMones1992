@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RaMones1992
 - 👀 I’m interested in  me tornar cientista de dados .
 - 🌱 I’m currently learning programação (Java,Javascript)
-- 
 - 💞️ I’m looking to collaborate  e aprender um pouco mais sobre  a função.
 - 📫 How to reach me linkedin(https://www.linkedin.com/in/ramon-cabral-207b4ab9/) ou email (Ramon_menezes@live.com)
 
